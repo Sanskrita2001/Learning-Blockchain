@@ -38,7 +38,12 @@ console.log(fooBlockChain)
 ```
 ###  Table of Content
 1. Blocks - The Blockchain Backend <br>
-   a. Create the Block class and respective tests <br>
-   b. Create the Genesis Block and respective tests <br>
-   c. Create the Mine Block and respective tests <br>
+   a. Create the Block class and respective Tests <br>
+   b. Create the Genesis Block and respective Tests <br>
+   c. Create the Mine Block and respective Tests <br>
    d. Crypto Hash and SHA-256 <br>
+2. Chain - The Blockchain Backend <br>
+   a. Create the Blockchain class and respective Tests <br>
+   b. Make chain validations and respective Tests <br>
+   c. Make chain replacements and respective Tests <br>
+   d. Stub Console Outputs in Tests <br>
