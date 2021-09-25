@@ -47,3 +47,6 @@ console.log(fooBlockChain)
    b. Make chain validations and respective Tests <br>
    c. Make chain replacements and respective Tests <br>
    d. Stub Console Outputs in Tests <br>
+3. Proof of work - The Blockchain Backend <br>
+   a. Difficulty and nonce value and respective tests <br>
+   b. Making Difficulty value dynamic according to mine rates <br>
